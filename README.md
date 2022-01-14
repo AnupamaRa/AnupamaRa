@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnupamaRa
+- 👋 Hi, I’m @AnupamaRaJ
 - 👀 I’m interested in software field.
 - 🌱 I’m currently learning java,mongdb.
 - 💞️ I’m looking to collaborate on java.
